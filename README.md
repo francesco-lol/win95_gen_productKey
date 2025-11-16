@@ -1,6 +1,6 @@
 # C++ Windows 95 product key generator
  
-##This simple C++ program allows you to generate product keys (OEM and retail) for Windows 95 
+## This simple C++ program allows you to generate product keys (OEM and retail) for Windows 95 
 
 1)OEM key:
 The logical structure of this key is:
@@ -30,6 +30,6 @@ simplify, none of the 3 numbers will ever repeat three times
 
 -the program provides a very simple console user interface 
  
-##Algorithm sources
+## Algorithm sources
 
 Wikipedia: https://en.wikipedia.org/wiki/Product_key
